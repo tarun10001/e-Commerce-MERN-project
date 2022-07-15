@@ -1,0 +1,146 @@
+main {
+  min-height: 80vh;
+}
+h3 {
+  padding: 1rem 0;
+}
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+
+.imgg {
+  height: 200px;
+}
+.fa-user {
+  font-size: 22px;
+}
+
+.sig {
+  font-size: 20px;
+}
+
+.fa-shopping-cart {
+  font-size: 22px;
+}
+
+.cartt {
+  font-size: 20px;
+}
+.cartt h5{
+color: white;
+font-weight: 700;
+}
+.img2 {
+  cursor: pointer;
+}
+.tk {
+  color: white;
+}
+
+.rounded {
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .4s ease-in-out;
+}
+
+.rounded:hover {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.back {
+  color: gray;
+  letter-spacing: normal;
+}
+.productImg {
+  transition: transform 2s, filter 1.3s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(100%);
+}
+
+
+/* The Transformation */
+.productImg:hover {
+  filter: brightness(100%);
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.paytmimg {
+  width: 20%;
+}
+
+/* Carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+.carousel-indicators .active {
+  background-color: white;
+  border: none;
+}
+.carousel-indicators button{
+  border: none;
+  background-color: rgb(119, 128, 128);
+  margin: 1%;
+  width : 50px;
+height: 5px;
+}
+.iq {
+  width: 28%;
+}
+
+.carousel-caption h2 {
+  color: #fff;
+}
+.carousel img {
+  height: 300px;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 50%;
+}
+.carousel a {
+  margin: 0 auto;
+  color: #343A40;
+}
+@media (max-width: 900px) {
+  .carousel-caption h2 {
+    font-size: 2.5vw;
+  }
+}
+
+.thank {
+  text-align: center;
+}
+
+.fig {
+  border: 1px solid red;
+  height: 150px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  font-size: 30px;
+}
+
+.nav {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(107, 102, 102, 0.22) 0px 10px 10px;
+}
