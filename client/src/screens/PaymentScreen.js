@@ -55,7 +55,7 @@ const PaymentScreen = () => {
                 mx={2}
                 fluid
                 rounded
-                src="https://png.pngitem.com/pimgs/s/12-123297_paytm-transparent-logo-paytm-logo-paytm-logo-png.png"
+                src="https://1000logos.net/wp-content/uploads/2021/03/Paytm_Logo.png"
                 width={60}
               />
             </Row>
