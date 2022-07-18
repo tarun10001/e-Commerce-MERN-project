@@ -5,7 +5,7 @@
 ## Screenshots of the app
 
 # Home page-1
-![](https://github.com/tarun10001/e-Commerce-MERN-project/blob/master/Images/Home%20page-1.png?raw=true)
+![](https://github.com/tarun10001/e-Commerce-MERN-project/blob/master/Images/Home%20page1.png?raw=true)
 # Home page-2
 ![](https://github.com/tarun10001/e-Commerce-MERN-project/blob/master/Images/Home%20page-2.png?raw=true)
 # Products details page
